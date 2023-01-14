@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TofuBeans (she/her)
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning React JS
 - 📫 You can reach me through my discord, Tofu_Beans#8066
 
 <!---
